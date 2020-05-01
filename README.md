@@ -1,3 +1,4 @@
+[![Build Status](https://semaphoreci.com/api/v1/pgaunitz/rails-app1/branches/master/badge.svg)](https://semaphoreci.com/pgaunitz/rails-app1)
 # README
 
 This README would normally document whatever steps are necessary to get the
